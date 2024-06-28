@@ -108,7 +108,7 @@ public class Tests {
 			test.pass("Sorted the response by Low to High (Price)");
 			
 			// extract the csv report and display
-			resultPageObj.extractReport(5);
+			resultPageObj.extractReport(50);
 			test.pass("Collected the Report in CSV");
 			test.pass("Displayed the CSV result");
 

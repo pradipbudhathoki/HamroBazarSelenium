@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-28T21:52:43 NPT" name="Suite" finished-at="2024-06-28T21:53:06 NPT" duration-ms="23589">
+  <suite started-at="2024-06-28T22:15:54 NPT" name="Suite" finished-at="2024-06-28T22:19:04 NPT" duration-ms="190060">
     <groups>
     </groups>
-    <test started-at="2024-06-28T21:52:43 NPT" name="Test" finished-at="2024-06-28T21:53:06 NPT" duration-ms="23589">
+    <test started-at="2024-06-28T22:15:54 NPT" name="Test" finished-at="2024-06-28T22:19:04 NPT" duration-ms="190060">
       <class name="tests.Tests">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Tests@1b11ef33]" started-at="2024-06-28T21:52:43 NPT" name="setup" finished-at="2024-06-28T21:52:43 NPT" duration-ms="79" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Tests@1b11ef33]" started-at="2024-06-28T22:15:54 NPT" name="setup" finished-at="2024-06-28T22:15:54 NPT" duration-ms="79" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setUpTest()[pri:0, instance:tests.Tests@1b11ef33]" started-at="2024-06-28T21:52:43 NPT" name="setUpTest" finished-at="2024-06-28T21:52:47 NPT" duration-ms="3842" status="PASS">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:tests.Tests@1b11ef33]" started-at="2024-06-28T22:15:54 NPT" name="setUpTest" finished-at="2024-06-28T22:15:58 NPT" duration-ms="4552" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method signature="Test1()[pri:0, instance:tests.Tests@1b11ef33]" started-at="2024-06-28T21:52:47 NPT" name="Test1" finished-at="2024-06-28T21:53:06 NPT" duration-ms="19706" status="PASS">
+        <test-method signature="Test1()[pri:0, instance:tests.Tests@1b11ef33]" started-at="2024-06-28T22:15:58 NPT" name="Test1" finished-at="2024-06-28T22:19:04 NPT" duration-ms="185460" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.Tests@1b11ef33]" started-at="2024-06-28T21:53:06 NPT" name="TearDown" finished-at="2024-06-28T21:53:09 NPT" duration-ms="2432" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:tests.Tests@1b11ef33]" started-at="2024-06-28T22:19:04 NPT" name="TearDown" finished-at="2024-06-28T22:19:07 NPT" duration-ms="2715" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
