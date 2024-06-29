@@ -70,7 +70,7 @@ public class SearchResultsPage {
 		logger.info("Setting location radius from the slider");
 		WebElement slider = driver.findElement(sliderElement);
 		WebElement sInput = driver.findElement(sliderInput);
-
+		
 //		System.out.println(slider.getSize());
 //		System.out.println(slider.getSize().getWidth());
 

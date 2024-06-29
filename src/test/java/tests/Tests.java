@@ -1,7 +1,5 @@
 package tests;
 
-import org.testng.annotations.Test;
-import org.testng.Assert;
 import java.time.Duration;
 
 import org.apache.logging.log4j.LogManager;
@@ -10,6 +8,7 @@ import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.testng.Assert;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
@@ -94,10 +93,13 @@ public class Tests {
 			test.pass("Selected Location New Road");
 
 			// Set location Radius
+			// Note : the slider is not linear in its increment, so the value chosen is nearest to 5000
 			searchPageObj.sliderSelect();
 			test.pass("Set Location Radius");
 			Thread.sleep(1000);
 
+			
+			
 			// Filter the response
 			searchPageObj.clickFilterButton();
 			test.pass("Filtered the response");
@@ -107,10 +109,14 @@ public class Tests {
 			searchPageObj.sortFilter("Low to High (Price)");
 			test.pass("Sorted the response by Low to High (Price)");
 			
+			
+			
 			// extract the csv report and display
+			// provide the number of reports to be extracted
 			resultPageObj.extractReport(50);
 			test.pass("Collected the Report in CSV");
 			test.pass("Displayed the CSV result");
+			
 
 		} catch (Exception e) {
 			Assert.fail("Test Failed : " + e.getMessage());

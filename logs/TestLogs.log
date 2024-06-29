@@ -1,232 +1,222 @@
-[INFO ] 2024-06-28 21:36:22.038 [main] Tests - Test Start
-[INFO ] 2024-06-28 21:36:27.874 [main] Tests - Navigating to HamroBazar
-[INFO ] 2024-06-28 21:36:28.955 [main] HomePage - Setting Text Monitor into search box
-[INFO ] 2024-06-28 21:36:29.015 [main] HomePage - Searching Monitor...
-[INFO ] 2024-06-28 21:36:29.350 [main] SearchResultsPage - Setting location to New Road
-[INFO ] 2024-06-28 21:36:30.028 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
-[INFO ] 2024-06-28 21:36:30.028 [main] SearchResultsPage - Navigating to the location dropdown menu
-[INFO ] 2024-06-28 21:36:30.029 [main] SearchResultsPage - Setting location radius from the slider
-[INFO ] 2024-06-28 21:36:31.525 [main] SearchResultsPage - Clicking the Filter button
-[INFO ] 2024-06-28 21:36:32.709 [main] SearchResultsPage - Choosing sorting filter from the dropdown
-[INFO ] 2024-06-28 21:36:32.884 [main] FinalResultPage - Extracting the reports in the CSV
-[INFO ] 2024-06-28 21:36:34.400 [main] FinalResultPage - 0 : 12V 1A Adapter/Charger For Router  LCD Monitor
-[INFO ] 2024-06-28 21:36:34.530 [main] FinalResultPage - 1 : 3 In 1 Laptop Cleaning Kit Monitor TV PC LED LCD S
-[INFO ] 2024-06-28 21:36:34.651 [main] FinalResultPage - 2 : Laptop & Monitor Cleaning Kit
-[INFO ] 2024-06-28 21:36:39.668 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:36:39.798 [main] FinalResultPage - 3 : 12V 1A Adapter/ Charger For Router  LCD Monitor
-[INFO ] 2024-06-28 21:36:44.879 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:36:44.986 [main] FinalResultPage - 4 : SMART HEALTH BRACELET WITH HEART RATE MONITOR (Smart Watch & Bands)
-[INFO ] 2024-06-28 21:36:44.987 [main] FinalResultPage - Displaying the CSV file
-[INFO ] 2024-06-28 21:36:47.366 [main] Tests - Test Completed
-[INFO ] 2024-06-28 21:39:27.698 [main] Tests - Test Start
-[INFO ] 2024-06-28 21:39:33.478 [main] Tests - Navigating to HamroBazar
-[INFO ] 2024-06-28 21:39:34.536 [main] HomePage - Setting Text Monitor into search box
-[INFO ] 2024-06-28 21:39:34.640 [main] HomePage - Searching Monitor...
-[INFO ] 2024-06-28 21:39:34.927 [main] SearchResultsPage - Setting location to New Road
-[INFO ] 2024-06-28 21:39:35.649 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
-[INFO ] 2024-06-28 21:39:35.649 [main] SearchResultsPage - Navigating to the location dropdown menu
-[INFO ] 2024-06-28 21:39:35.650 [main] SearchResultsPage - Setting location radius from the slider
-[INFO ] 2024-06-28 21:39:37.133 [main] SearchResultsPage - Clicking the Filter button
-[INFO ] 2024-06-28 21:39:38.266 [main] SearchResultsPage - Choosing sorting filter from the dropdown
-[INFO ] 2024-06-28 21:39:38.445 [main] FinalResultPage - Extracting the reports in the CSV
-[INFO ] 2024-06-28 21:39:41.220 [main] FinalResultPage - 0 : 12V 1A Adapter/Charger For Router  LCD Monitor
-[INFO ] 2024-06-28 21:39:41.359 [main] FinalResultPage - 1 : 3 In 1 Laptop Cleaning Kit Monitor TV PC LED LCD S
-[INFO ] 2024-06-28 21:39:41.522 [main] FinalResultPage - 2 : Laptop & Monitor Cleaning Kit
-[INFO ] 2024-06-28 21:39:46.569 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:39:46.682 [main] FinalResultPage - 3 : 12V 1A Adapter/ Charger For Router  LCD Monitor
-[INFO ] 2024-06-28 21:39:51.729 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:39:51.843 [main] FinalResultPage - 4 : SMART HEALTH BRACELET WITH HEART RATE MONITOR (Smart Watch & Bands)
-[INFO ] 2024-06-28 21:39:51.941 [main] FinalResultPage - 5 : VGA MONITOR Y SPLITTER  1 FOOT
-[INFO ] 2024-06-28 21:39:56.982 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:39:57.081 [main] FinalResultPage - 6 : VGA Monitor Y Splitter  1 Foot
-[INFO ] 2024-06-28 21:40:02.142 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:02.242 [main] FinalResultPage - 7 : VGA MONITOR Y SPLITTER  1 FOOT
-[INFO ] 2024-06-28 21:40:02.336 [main] FinalResultPage - 8 : Atomos Shinobi Monitor On Rent.
-[INFO ] 2024-06-28 21:40:07.500 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:07.606 [main] FinalResultPage - 9 : VGA Monitor Y Splitter  1 Foot
-[INFO ] 2024-06-28 21:40:12.691 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:12.787 [main] FinalResultPage - 10 : CRT Monitor
-[INFO ] 2024-06-28 21:40:12.879 [main] FinalResultPage - 11 : VGA Cable Used To Connect Computers To LCD Monitor
-[INFO ] 2024-06-28 21:40:17.984 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:18.078 [main] FinalResultPage - 12 : Metal Hot Shoe Mount For Monitor Mic Flash Etc
-[INFO ] 2024-06-28 21:40:23.169 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:23.291 [main] FinalResultPage - 13 : Monitor
-[INFO ] 2024-06-28 21:40:23.387 [main] FinalResultPage - 14 : Tp Link Wifi Adapter Supports Monitor Mode
-[INFO ] 2024-06-28 21:40:28.422 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:28.546 [main] FinalResultPage - 15 : HP 23x Computer Monitor Part
-[INFO ] 2024-06-28 21:40:33.677 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:33.928 [main] FinalResultPage - 16 : Mini DisplayPort To VGA Monitor Adapter
-[INFO ] 2024-06-28 21:40:39.020 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:39.196 [main] FinalResultPage - 17 : Desk Mount Bracket For 55  Monitor HB-5055-H
-[INFO ] 2024-06-28 21:40:39.315 [main] FinalResultPage - 18 : AOC Monitor 22 Inch [Read Description]
-[INFO ] 2024-06-28 21:40:47.068 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:47.483 [main] FinalResultPage - 19 : Seetec Monitor 17inch On Rent
-[INFO ] 2024-06-28 21:40:52.592 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:52.716 [main] FinalResultPage - 20 : Teckin Smart WiFi 16A SA Plug With Energy Monitor
-[INFO ] 2024-06-28 21:40:52.819 [main] FinalResultPage - 21 : Studio Monitor TRS Cables
-[INFO ] 2024-06-28 21:40:57.900 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:40:58.020 [main] FinalResultPage - 22 : Rossmax Manual BP Monitor Aneroid Sphygmomanometer
-[INFO ] 2024-06-28 21:41:03.116 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:03.268 [main] FinalResultPage - 23 : VGA 15 Pin (3C+6) Monitor Cable 10Meter To 30Meter
-[INFO ] 2024-06-28 21:41:03.402 [main] FinalResultPage - 24 : MONITOR TRAY BT 600X375 A
-[INFO ] 2024-06-28 21:41:08.471 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:08.592 [main] FinalResultPage - 25 : DisplayPort To HDTV Monitor Cable - 3Meter
-[INFO ] 2024-06-28 21:41:13.707 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:13.815 [main] FinalResultPage - 26 : DisplayPort To HDTV Monitor Cable - 3Meter
-[INFO ] 2024-06-28 21:41:15.610 [main] FinalResultPage - 27 : Rossmax Manual BP Monitor WIth Sthetescope
-[INFO ] 2024-06-28 21:41:20.668 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:20.768 [main] FinalResultPage - 28 : Monitor Light Bar: Enhance Productivity & Eye Comf
-[INFO ] 2024-06-28 21:41:25.825 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:25.931 [main] FinalResultPage - 29 : Colour Calibrator Service For Display Monitor
-[INFO ] 2024-06-28 21:41:31.019 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:31.123 [main] FinalResultPage - 30 : IMOU CE1 Smart Socket EU Plug With Power Monitor
-[INFO ] 2024-06-28 21:41:31.217 [main] FinalResultPage - 31 : EVESVO Monitor Light Bar For Computer Screen
-[INFO ] 2024-06-28 21:41:36.272 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:36.372 [main] FinalResultPage - 32 : Electronic Blood Pressure Monitor
-[INFO ] 2024-06-28 21:41:41.413 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:41.533 [main] FinalResultPage - 33 : Lg Monitor 17  Good Condition
-[INFO ] 2024-06-28 21:41:41.630 [main] FinalResultPage - 34 : Samsung CRD Monitor Fresh Condition
-[INFO ] 2024-06-28 21:41:46.731 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:46.851 [main] FinalResultPage - 35 : Baby Monitor Camera
-[INFO ] 2024-06-28 21:41:51.898 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:51.991 [main] FinalResultPage - 36 : BenQ G615HDPL 15.6W  LED Monitor
-[INFO ] 2024-06-28 21:41:52.079 [main] FinalResultPage - 37 : MONITOR STAND - WALL MOUNT HB-4032-E
-[INFO ] 2024-06-28 21:41:57.130 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:41:57.239 [main] FinalResultPage - 38 : Voltage Monitoring Relay
-[INFO ] 2024-06-28 21:42:02.301 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:42:02.409 [main] FinalResultPage - 39 : Dr Seibert Blood Pressure Monitor/Machine/BP Set
-[INFO ] 2024-06-28 21:42:02.509 [main] FinalResultPage - 40 : Lg 17  Lcd Monitor Exchange Sale
-[INFO ] 2024-06-28 21:42:07.587 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:42:07.709 [main] FinalResultPage - 41 : 17  Dell Lcd Monitor For Cctv And Pc
-[INFO ] 2024-06-28 21:42:12.773 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:42:12.872 [main] FinalResultPage - 42 : 70mai Hardwire Kit For 24 Hour Monitoring For Omni (Car - Accessories)
-[INFO ] 2024-06-28 21:42:12.983 [main] FinalResultPage - 43 : Citizen Brand Digital Blood Pressure Monitor CHU04
-[INFO ] 2024-06-28 21:42:18.029 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:42:18.124 [main] FinalResultPage - 44 : SanDisk 128GB Dash Cam And Home Monitoring (Memory Cards)
-[INFO ] 2024-06-28 21:42:23.175 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:42:23.270 [main] FinalResultPage - 45 : Samsung 17  Monitor
-[INFO ] 2024-06-28 21:42:28.350 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:42:28.458 [main] FinalResultPage - 46 : Monitors For Sale
-[INFO ] 2024-06-28 21:42:28.556 [main] FinalResultPage - 47 : Monitor For Sale Cheap Samsung
-[INFO ] 2024-06-28 21:42:33.620 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:42:33.737 [main] FinalResultPage - 48 : N8 Smart Watch With Fitness Tracker Heart Monitor (Smart Watch & Bands)
-[INFO ] 2024-06-28 21:42:38.809 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:42:38.911 [main] FinalResultPage - 49 : MONITOR STAND - DESK MOUNT HB-5032-H
-[INFO ] 2024-06-28 21:42:38.912 [main] FinalResultPage - Displaying the CSV file
-[INFO ] 2024-06-28 21:42:41.419 [main] Tests - Test Completed
-[INFO ] 2024-06-28 21:52:43.198 [main] Tests - Test Start
-[INFO ] 2024-06-28 21:52:49.010 [main] Tests - Navigating to HamroBazar
-[INFO ] 2024-06-28 21:52:49.980 [main] HomePage - Setting Text Monitor into search box
-[INFO ] 2024-06-28 21:52:50.034 [main] HomePage - Searching Monitor...
-[INFO ] 2024-06-28 21:52:50.405 [main] SearchResultsPage - Setting location to New Road
-[INFO ] 2024-06-28 21:52:51.083 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
-[INFO ] 2024-06-28 21:52:51.083 [main] SearchResultsPage - Navigating to the location dropdown menu
-[INFO ] 2024-06-28 21:52:51.084 [main] SearchResultsPage - Setting location radius from the slider
-[INFO ] 2024-06-28 21:52:52.584 [main] SearchResultsPage - Clicking the Filter button
-[INFO ] 2024-06-28 21:52:53.806 [main] SearchResultsPage - Choosing sorting filter from the dropdown
-[INFO ] 2024-06-28 21:52:53.985 [main] FinalResultPage - Extracting the reports in the CSV
-[INFO ] 2024-06-28 21:52:55.960 [main] FinalResultPage - 0 : 12V 1A Adapter/Charger For Router  LCD Monitor
-[INFO ] 2024-06-28 21:52:56.126 [main] FinalResultPage - 1 : 3 In 1 Laptop Cleaning Kit Monitor TV PC LED LCD S
-[INFO ] 2024-06-28 21:52:56.257 [main] FinalResultPage - 2 : Laptop & Monitor Cleaning Kit
-[INFO ] 2024-06-28 21:53:01.364 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:53:01.506 [main] FinalResultPage - 3 : 12V 1A Adapter/ Charger For Router  LCD Monitor
-[INFO ] 2024-06-28 21:53:06.590 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 21:53:06.732 [main] FinalResultPage - 4 : SMART HEALTH BRACELET WITH HEART RATE MONITOR (Smart Watch & Bands)
-[INFO ] 2024-06-28 21:53:06.733 [main] FinalResultPage - Displaying the CSV file
-[INFO ] 2024-06-28 21:53:09.026 [main] Tests - Test Completed
-[INFO ] 2024-06-28 22:15:54.240 [main] Tests - Test Start
-[INFO ] 2024-06-28 22:16:00.875 [main] Tests - Navigating to HamroBazar
-[INFO ] 2024-06-28 22:16:01.952 [main] HomePage - Setting Text Monitor into search box
-[INFO ] 2024-06-28 22:16:02.050 [main] HomePage - Searching Monitor...
-[INFO ] 2024-06-28 22:16:02.385 [main] SearchResultsPage - Setting location to New Road
-[INFO ] 2024-06-28 22:16:03.084 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
-[INFO ] 2024-06-28 22:16:03.084 [main] SearchResultsPage - Navigating to the location dropdown menu
-[INFO ] 2024-06-28 22:16:03.085 [main] SearchResultsPage - Setting location radius from the slider
-[INFO ] 2024-06-28 22:16:04.591 [main] SearchResultsPage - Clicking the Filter button
-[INFO ] 2024-06-28 22:16:05.860 [main] SearchResultsPage - Choosing sorting filter from the dropdown
-[INFO ] 2024-06-28 22:16:06.024 [main] FinalResultPage - Extracting the reports in the CSV
-[INFO ] 2024-06-28 22:16:08.352 [main] FinalResultPage - 0 : 12V 1A Adapter/Charger For Router  LCD Monitor
-[INFO ] 2024-06-28 22:16:08.476 [main] FinalResultPage - 1 : 3 In 1 Laptop Cleaning Kit Monitor TV PC LED LCD S
-[INFO ] 2024-06-28 22:16:08.601 [main] FinalResultPage - 2 : Laptop & Monitor Cleaning Kit
-[INFO ] 2024-06-28 22:16:13.686 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:16:13.831 [main] FinalResultPage - 3 : 12V 1A Adapter/ Charger For Router  LCD Monitor
-[INFO ] 2024-06-28 22:16:18.877 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:16:18.987 [main] FinalResultPage - 4 : SMART HEALTH BRACELET WITH HEART RATE MONITOR (Smart Watch & Bands)
-[INFO ] 2024-06-28 22:16:19.095 [main] FinalResultPage - 5 : VGA MONITOR Y SPLITTER  1 FOOT
-[INFO ] 2024-06-28 22:16:24.152 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:16:24.275 [main] FinalResultPage - 6 : VGA Monitor Y Splitter  1 Foot
-[INFO ] 2024-06-28 22:16:29.363 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:16:29.470 [main] FinalResultPage - 7 : VGA MONITOR Y SPLITTER  1 FOOT
-[INFO ] 2024-06-28 22:16:29.564 [main] FinalResultPage - 8 : Atomos Shinobi Monitor On Rent.
-[INFO ] 2024-06-28 22:16:35.140 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:16:35.389 [main] FinalResultPage - 9 : VGA Monitor Y Splitter  1 Foot
-[INFO ] 2024-06-28 22:16:40.455 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:16:40.615 [main] FinalResultPage - 10 : CRT Monitor
-[INFO ] 2024-06-28 22:16:40.716 [main] FinalResultPage - 11 : VGA Cable Used To Connect Computers To LCD Monitor
-[INFO ] 2024-06-28 22:16:45.784 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:16:45.911 [main] FinalResultPage - 12 : Metal Hot Shoe Mount For Monitor Mic Flash Etc
-[INFO ] 2024-06-28 22:16:50.987 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:16:51.159 [main] FinalResultPage - 13 : Monitor
-[INFO ] 2024-06-28 22:16:51.257 [main] FinalResultPage - 14 : Tp Link Wifi Adapter Supports Monitor Mode
-[INFO ] 2024-06-28 22:16:56.329 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:16:56.466 [main] FinalResultPage - 15 : HP 23x Computer Monitor Part
-[INFO ] 2024-06-28 22:17:01.544 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:01.680 [main] FinalResultPage - 16 : Mini DisplayPort To VGA Monitor Adapter
-[INFO ] 2024-06-28 22:17:06.776 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:06.923 [main] FinalResultPage - 17 : Desk Mount Bracket For 55  Monitor HB-5055-H
-[INFO ] 2024-06-28 22:17:07.029 [main] FinalResultPage - 18 : AOC Monitor 22 Inch [Read Description]
-[INFO ] 2024-06-28 22:17:12.103 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:12.236 [main] FinalResultPage - 19 : Seetec Monitor 17inch On Rent
-[INFO ] 2024-06-28 22:17:17.294 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:17.446 [main] FinalResultPage - 20 : Teckin Smart WiFi 16A SA Plug With Energy Monitor
-[INFO ] 2024-06-28 22:17:17.547 [main] FinalResultPage - 21 : Studio Monitor TRS Cables
-[INFO ] 2024-06-28 22:17:22.626 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:22.749 [main] FinalResultPage - 22 : Rossmax Manual BP Monitor Aneroid Sphygmomanometer
-[INFO ] 2024-06-28 22:17:27.806 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:27.949 [main] FinalResultPage - 23 : VGA 15 Pin (3C+6) Monitor Cable 10Meter To 30Meter
-[INFO ] 2024-06-28 22:17:28.045 [main] FinalResultPage - 24 : MONITOR TRAY BT 600X375 A
-[INFO ] 2024-06-28 22:17:33.112 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:33.235 [main] FinalResultPage - 25 : DisplayPort To HDTV Monitor Cable - 3Meter
-[INFO ] 2024-06-28 22:17:38.411 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:38.581 [main] FinalResultPage - 26 : DisplayPort To HDTV Monitor Cable - 3Meter
-[INFO ] 2024-06-28 22:17:40.346 [main] FinalResultPage - 27 : Rossmax Manual BP Monitor WIth Sthetescope
-[INFO ] 2024-06-28 22:17:45.431 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:45.554 [main] FinalResultPage - 28 : Monitor Light Bar: Enhance Productivity & Eye Comf
-[INFO ] 2024-06-28 22:17:50.609 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:50.747 [main] FinalResultPage - 29 : Colour Calibrator Service For Display Monitor
-[INFO ] 2024-06-28 22:17:55.845 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:17:55.984 [main] FinalResultPage - 30 : IMOU CE1 Smart Socket EU Plug With Power Monitor
-[INFO ] 2024-06-28 22:17:56.093 [main] FinalResultPage - 31 : EVESVO Monitor Light Bar For Computer Screen
-[INFO ] 2024-06-28 22:18:01.136 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:01.260 [main] FinalResultPage - 32 : Electronic Blood Pressure Monitor
-[INFO ] 2024-06-28 22:18:06.349 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:06.480 [main] FinalResultPage - 33 : Lg Monitor 17  Good Condition
-[INFO ] 2024-06-28 22:18:06.580 [main] FinalResultPage - 34 : Samsung CRD Monitor Fresh Condition
-[INFO ] 2024-06-28 22:18:11.639 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:11.789 [main] FinalResultPage - 35 : Baby Monitor Camera
-[INFO ] 2024-06-28 22:18:16.878 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:16.994 [main] FinalResultPage - 36 : BenQ G615HDPL 15.6W  LED Monitor
-[INFO ] 2024-06-28 22:18:17.095 [main] FinalResultPage - 37 : MONITOR STAND - WALL MOUNT HB-4032-E
-[INFO ] 2024-06-28 22:18:22.171 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:22.310 [main] FinalResultPage - 38 : Voltage Monitoring Relay
-[INFO ] 2024-06-28 22:18:27.390 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:27.530 [main] FinalResultPage - 39 : Dr Seibert Blood Pressure Monitor/Machine/BP Set
-[INFO ] 2024-06-28 22:18:27.629 [main] FinalResultPage - 40 : Lg 17  Lcd Monitor Exchange Sale
-[INFO ] 2024-06-28 22:18:32.692 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:32.832 [main] FinalResultPage - 41 : 17  Dell Lcd Monitor For Cctv And Pc
-[INFO ] 2024-06-28 22:18:37.896 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:38.020 [main] FinalResultPage - 42 : 70mai Hardwire Kit For 24 Hour Monitoring For Omni (Car - Accessories)
-[INFO ] 2024-06-28 22:18:38.119 [main] FinalResultPage - 43 : Citizen Brand Digital Blood Pressure Monitor CHU04
-[INFO ] 2024-06-28 22:18:43.165 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:43.283 [main] FinalResultPage - 44 : SanDisk 128GB Dash Cam And Home Monitoring (Memory Cards)
-[INFO ] 2024-06-28 22:18:48.348 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:48.487 [main] FinalResultPage - 45 : Samsung 17  Monitor
-[INFO ] 2024-06-28 22:18:53.559 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:53.703 [main] FinalResultPage - 46 : Monitors For Sale
-[INFO ] 2024-06-28 22:18:53.796 [main] FinalResultPage - 47 : Monitor For Sale Cheap Samsung
-[INFO ] 2024-06-28 22:18:58.861 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:18:58.997 [main] FinalResultPage - 48 : N8 Smart Watch With Fitness Tracker Heart Monitor (Smart Watch & Bands)
-[INFO ] 2024-06-28 22:19:04.061 [main] FinalResultPage - Waiting for element to appear
-[INFO ] 2024-06-28 22:19:04.177 [main] FinalResultPage - 49 : MONITOR STAND - DESK MOUNT HB-5032-H
-[INFO ] 2024-06-28 22:19:04.180 [main] FinalResultPage - Displaying the CSV file
-[INFO ] 2024-06-28 22:19:06.801 [main] Tests - Test Completed
+[INFO ] 2024-06-29 14:50:37.109 [main] Tests - Test Start
+[INFO ] 2024-06-29 14:50:43.941 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 14:50:44.913 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 14:50:44.975 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 14:50:45.370 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 14:50:46.053 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 14:50:46.053 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 14:50:46.054 [main] SearchResultsPage - Setting location radius from the slider
+[INFO ] 2024-06-29 14:50:51.825 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:14:41.286 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:14:46.882 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:14:47.929 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:14:48.028 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:14:48.403 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:14:49.099 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:14:49.100 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:14:54.429 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:15:15.833 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:15:19.492 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:15:20.393 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:15:20.445 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:15:20.749 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:15:21.427 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:15:21.428 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:15:53.930 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:17:40.513 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:17:45.196 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:17:46.111 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:17:46.165 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:17:46.527 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:17:47.216 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:17:47.216 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:20:01.691 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:20:05.396 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:20:06.144 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:20:06.206 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:20:06.621 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:20:07.287 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:20:07.287 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:20:07.287 [main] SearchResultsPage - Setting location radius from the slider
+[INFO ] 2024-06-29 15:20:21.383 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:26:13.774 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:26:19.277 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:26:20.352 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:26:20.440 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:26:20.785 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:26:21.465 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:26:21.466 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:26:26.865 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:26:53.272 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:26:56.992 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:26:57.839 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:26:57.950 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:26:58.292 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:26:58.974 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:26:58.974 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:30:29.916 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:30:35.546 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:30:36.490 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:30:36.580 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:30:36.861 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:30:37.561 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:30:37.561 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:30:40.608 [main] SearchResultsPage - Clicking the Filter button
+[INFO ] 2024-06-29 15:30:41.853 [main] SearchResultsPage - Choosing sorting filter from the dropdown
+[INFO ] 2024-06-29 15:30:44.380 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:31:00.577 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:31:04.318 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:31:05.353 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:31:05.450 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:31:05.702 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:31:06.392 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:31:06.393 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:31:09.434 [main] SearchResultsPage - Clicking the Filter button
+[INFO ] 2024-06-29 15:31:10.694 [main] SearchResultsPage - Choosing sorting filter from the dropdown
+[INFO ] 2024-06-29 15:31:16.364 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:34:46.844 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:34:52.291 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:34:53.450 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:34:53.529 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:34:53.842 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:34:54.545 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:34:54.546 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:34:57.627 [main] SearchResultsPage - Clicking the Filter button
+[INFO ] 2024-06-29 15:34:58.844 [main] SearchResultsPage - Choosing sorting filter from the dropdown
+[INFO ] 2024-06-29 15:35:04.591 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:35:55.520 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:35:59.227 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:36:00.221 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:36:00.308 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:36:00.602 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:36:01.295 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:36:01.295 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:36:04.361 [main] SearchResultsPage - Clicking the Filter button
+[INFO ] 2024-06-29 15:36:05.586 [main] SearchResultsPage - Choosing sorting filter from the dropdown
+[INFO ] 2024-06-29 15:36:11.073 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:37:12.760 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:37:16.826 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:37:17.651 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:37:17.804 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:37:18.088 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:37:18.791 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:37:18.791 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:37:21.858 [main] SearchResultsPage - Clicking the Filter button
+[INFO ] 2024-06-29 15:37:23.084 [main] SearchResultsPage - Choosing sorting filter from the dropdown
+[INFO ] 2024-06-29 15:37:28.712 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:41:12.180 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:41:17.781 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:41:18.907 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:41:18.987 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:41:19.303 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:41:20.027 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:41:20.027 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:41:20.028 [main] SearchResultsPage - Setting location radius from the slider
+[INFO ] 2024-06-29 15:41:21.520 [main] SearchResultsPage - Clicking the Filter button
+[INFO ] 2024-06-29 15:41:22.718 [main] SearchResultsPage - Choosing sorting filter from the dropdown
+[INFO ] 2024-06-29 15:41:22.900 [main] FinalResultPage - Extracting the reports in the CSV
+[INFO ] 2024-06-29 15:41:25.308 [main] FinalResultPage - 0 : 12V 1A Adapter/Charger For Router  LCD Monitor
+[INFO ] 2024-06-29 15:41:25.457 [main] FinalResultPage - 1 : 3 In 1 Laptop Cleaning Kit Monitor TV PC LED LCD S
+[INFO ] 2024-06-29 15:41:25.617 [main] FinalResultPage - 2 : Laptop & Monitor Cleaning Kit
+[INFO ] 2024-06-29 15:41:30.717 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:41:30.895 [main] FinalResultPage - 3 : 12V 1A Adapter/ Charger For Router  LCD Monitor
+[INFO ] 2024-06-29 15:41:36.021 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:41:36.233 [main] FinalResultPage - 4 : SMART HEALTH BRACELET WITH HEART RATE MONITOR (Smart Watch & Bands)
+[INFO ] 2024-06-29 15:41:36.234 [main] FinalResultPage - Displaying the CSV file
+[INFO ] 2024-06-29 15:41:38.628 [main] Tests - Test Completed
+[INFO ] 2024-06-29 15:42:44.131 [main] Tests - Test Start
+[INFO ] 2024-06-29 15:42:49.418 [main] Tests - Navigating to HamroBazar
+[INFO ] 2024-06-29 15:42:50.428 [main] HomePage - Setting Text Monitor into search box
+[INFO ] 2024-06-29 15:42:50.560 [main] HomePage - Searching Monitor...
+[INFO ] 2024-06-29 15:42:50.871 [main] SearchResultsPage - Setting location to New Road
+[INFO ] 2024-06-29 15:42:51.554 [main] SearchResultsPage - Selecting Naya Sadak New Road Kathmandu from dropdown
+[INFO ] 2024-06-29 15:42:51.554 [main] SearchResultsPage - Navigating to the location dropdown menu
+[INFO ] 2024-06-29 15:42:51.555 [main] SearchResultsPage - Setting location radius from the slider
+[INFO ] 2024-06-29 15:42:53.070 [main] SearchResultsPage - Clicking the Filter button
+[INFO ] 2024-06-29 15:42:54.286 [main] SearchResultsPage - Choosing sorting filter from the dropdown
+[INFO ] 2024-06-29 15:42:54.488 [main] FinalResultPage - Extracting the reports in the CSV
+[INFO ] 2024-06-29 15:42:56.003 [main] FinalResultPage - 0 : 12V 1A Adapter/Charger For Router  LCD Monitor
+[INFO ] 2024-06-29 15:42:56.149 [main] FinalResultPage - 1 : 3 In 1 Laptop Cleaning Kit Monitor TV PC LED LCD S
+[INFO ] 2024-06-29 15:42:56.260 [main] FinalResultPage - 2 : Laptop & Monitor Cleaning Kit
+[INFO ] 2024-06-29 15:43:01.349 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:01.512 [main] FinalResultPage - 3 : 12V 1A Adapter/ Charger For Router  LCD Monitor
+[INFO ] 2024-06-29 15:43:06.592 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:06.828 [main] FinalResultPage - 4 : SMART HEALTH BRACELET WITH HEART RATE MONITOR (Smart Watch & Bands)
+[INFO ] 2024-06-29 15:43:06.942 [main] FinalResultPage - 5 : VGA MONITOR Y SPLITTER  1 FOOT
+[INFO ] 2024-06-29 15:43:12.025 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:12.255 [main] FinalResultPage - 6 : VGA Monitor Y Splitter  1 Foot
+[INFO ] 2024-06-29 15:43:17.329 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:17.512 [main] FinalResultPage - 7 : VGA MONITOR Y SPLITTER  1 FOOT
+[INFO ] 2024-06-29 15:43:17.628 [main] FinalResultPage - 8 : Atomos Shinobi Monitor On Rent.
+[INFO ] 2024-06-29 15:43:22.941 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:23.109 [main] FinalResultPage - 9 : VGA Monitor Y Splitter  1 Foot
+[INFO ] 2024-06-29 15:43:28.176 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:28.399 [main] FinalResultPage - 10 : CRT Monitor
+[INFO ] 2024-06-29 15:43:28.502 [main] FinalResultPage - 11 : VGA Cable Used To Connect Computers To LCD Monitor
+[INFO ] 2024-06-29 15:43:33.638 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:33.803 [main] FinalResultPage - 12 : Metal Hot Shoe Mount For Monitor Mic Flash Etc
+[INFO ] 2024-06-29 15:43:38.890 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:39.100 [main] FinalResultPage - 13 : Monitor
+[INFO ] 2024-06-29 15:43:39.219 [main] FinalResultPage - 14 : Tp Link Wifi Adapter Supports Monitor Mode
+[INFO ] 2024-06-29 15:43:44.292 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:44.471 [main] FinalResultPage - 15 : HP 23x Computer Monitor Part
+[INFO ] 2024-06-29 15:43:49.560 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:49.756 [main] FinalResultPage - 16 : Mini DisplayPort To VGA Monitor Adapter
+[INFO ] 2024-06-29 15:43:54.829 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:43:55.019 [main] FinalResultPage - 17 : Desk Mount Bracket For 55  Monitor HB-5055-H
+[INFO ] 2024-06-29 15:43:55.134 [main] FinalResultPage - 18 : AOC Monitor 22 Inch [Read Description]
+[INFO ] 2024-06-29 15:44:00.218 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:00.396 [main] FinalResultPage - 19 : Seetec Monitor 17inch On Rent
+[INFO ] 2024-06-29 15:44:05.494 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:05.697 [main] FinalResultPage - 20 : Teckin Smart WiFi 16A SA Plug With Energy Monitor
+[INFO ] 2024-06-29 15:44:05.804 [main] FinalResultPage - 21 : Studio Monitor TRS Cables
+[INFO ] 2024-06-29 15:44:10.905 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:11.106 [main] FinalResultPage - 22 : Rossmax Manual BP Monitor Aneroid Sphygmomanometer
+[INFO ] 2024-06-29 15:44:16.212 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:16.401 [main] FinalResultPage - 23 : VGA 15 Pin (3C+6) Monitor Cable 10Meter To 30Meter
+[INFO ] 2024-06-29 15:44:16.511 [main] FinalResultPage - 24 : MONITOR TRAY BT 600X375 A
+[INFO ] 2024-06-29 15:44:21.615 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:21.748 [main] FinalResultPage - 25 : DisplayPort To HDTV Monitor Cable - 3Meter
+[INFO ] 2024-06-29 15:44:26.946 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:27.117 [main] FinalResultPage - 26 : DisplayPort To HDTV Monitor Cable - 3Meter
+[INFO ] 2024-06-29 15:44:28.697 [main] FinalResultPage - 27 : Rossmax Manual BP Monitor WIth Sthetescope
+[INFO ] 2024-06-29 15:44:33.752 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:33.989 [main] FinalResultPage - 28 : Monitor Light Bar: Enhance Productivity & Eye Comf
+[INFO ] 2024-06-29 15:44:39.063 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:39.262 [main] FinalResultPage - 29 : Colour Calibrator Service For Display Monitor
+[INFO ] 2024-06-29 15:44:44.346 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:44.541 [main] FinalResultPage - 30 : IMOU CE1 Smart Socket EU Plug With Power Monitor
+[INFO ] 2024-06-29 15:44:44.656 [main] FinalResultPage - 31 : EVESVO Monitor Light Bar For Computer Screen
+[INFO ] 2024-06-29 15:44:49.726 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:49.854 [main] FinalResultPage - 32 : Electronic Blood Pressure Monitor
+[INFO ] 2024-06-29 15:44:54.946 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:44:55.133 [main] FinalResultPage - 33 : Lg Monitor 17  Good Condition
+[INFO ] 2024-06-29 15:44:55.236 [main] FinalResultPage - 34 : Samsung CRD Monitor Fresh Condition
+[INFO ] 2024-06-29 15:45:00.326 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:00.532 [main] FinalResultPage - 35 : Baby Monitor Camera
+[INFO ] 2024-06-29 15:45:05.594 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:05.788 [main] FinalResultPage - 36 : BenQ G615HDPL 15.6W  LED Monitor
+[INFO ] 2024-06-29 15:45:05.898 [main] FinalResultPage - 37 : MONITOR STAND - WALL MOUNT HB-4032-E
+[INFO ] 2024-06-29 15:45:10.966 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:11.169 [main] FinalResultPage - 38 : Voltage Monitoring Relay
+[INFO ] 2024-06-29 15:45:16.247 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:16.433 [main] FinalResultPage - 39 : Dr Seibert Blood Pressure Monitor/Machine/BP Set
+[INFO ] 2024-06-29 15:45:16.536 [main] FinalResultPage - 40 : Lg 17  Lcd Monitor Exchange Sale
+[INFO ] 2024-06-29 15:45:21.595 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:21.800 [main] FinalResultPage - 41 : 17  Dell Lcd Monitor For Cctv And Pc
+[INFO ] 2024-06-29 15:45:26.852 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:27.054 [main] FinalResultPage - 42 : 70mai Hardwire Kit For 24 Hour Monitoring For Omni (Car - Accessories)
+[INFO ] 2024-06-29 15:45:27.165 [main] FinalResultPage - 43 : Citizen Brand Digital Blood Pressure Monitor CHU04
+[INFO ] 2024-06-29 15:45:32.243 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:32.380 [main] FinalResultPage - 44 : SanDisk 128GB Dash Cam And Home Monitoring (Memory Cards)
+[INFO ] 2024-06-29 15:45:37.443 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:37.629 [main] FinalResultPage - 45 : Samsung 17  Monitor
+[INFO ] 2024-06-29 15:45:42.711 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:42.915 [main] FinalResultPage - 46 : Monitors For Sale
+[INFO ] 2024-06-29 15:45:43.020 [main] FinalResultPage - 47 : Monitor For Sale Cheap Samsung
+[INFO ] 2024-06-29 15:45:48.086 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:48.262 [main] FinalResultPage - 48 : N8 Smart Watch With Fitness Tracker Heart Monitor (Smart Watch & Bands)
+[INFO ] 2024-06-29 15:45:53.321 [main] FinalResultPage - Waiting for element to appear
+[INFO ] 2024-06-29 15:45:53.473 [main] FinalResultPage - 49 : MONITOR STAND - DESK MOUNT HB-5032-H
+[INFO ] 2024-06-29 15:45:53.474 [main] FinalResultPage - Displaying the CSV file
+[INFO ] 2024-06-29 15:45:56.005 [main] Tests - Test Completed
