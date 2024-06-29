@@ -48,13 +48,13 @@ mvn test
 
 ## Project Structure
 
-- **src/main/java/com/hamrobazaar/pages**: Contains the Page Object Model classes.
+- **src/test/java/pages**: Contains the Page Object Model classes.
   - HomePage.java : Responsible for interacting with the home page elements such as the search box and search button.
   - SearchResultsPage.java: Sets the location filter, location radius, filter and the sorting of the items.
   - FinalResultPage.java: Handles the extraction of product details and writing them to a CSV file.
-- **src/test/java/com/hamrobazaar/tests**: Contains the test class.
+- **src/test/java/tests**: Contains the test class.
   - Tests.java: Contains the TestNG test classes.
-- **resources**: Contains the log4j2.xml file
+- **src/main/resources**: Contains the log4j2.xml file
 - **logs**: Contains the logs of the test run
 - **extentReport**: HTML report of the test run
 - **pom.xml**: Maven dependencies.
